@@ -15,7 +15,7 @@ The goal is to evaluate and compare **FinBERT** and **BERT-base** for financial 
 
 ### Option 1: Google Colab (recommended)
 1. Open the notebook in Colab:
-   - [Open in Colab]([https://colab.research.google.com/github/DanDmc/DSA4213_Assignment3_FinetuningBert/blob/main/DSA4213_Assignment3_A0253408H_Code.ipynb))
+   - [Open in Colab](https://colab.research.google.com/github/DanDmc/DSA4213_Assignment3_FinetuningBert/blob/main/DSA4213_Assignment3_A0253408H_Code.ipynb)
 2. In Colab:
    - Go to **Runtime → Change runtime type → GPU (T4 preferred)**.
    - Run all cells sequentially.
